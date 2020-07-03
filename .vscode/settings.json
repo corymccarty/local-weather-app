@@ -1,0 +1,17 @@
+{
+  "debug.openExplorerOnEnd": true,
+  "editor.tabSize": 2,
+  "editor.rulers": [90],
+  "editor.autoIndent": "full",
+  "editor.formatOnSave": true,
+  "editor.minimap.enabled": false,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": false,
+    "source.fixAll.tslint": true,
+  },
+  "explorer.openEditors.visible": 0,
+  "files.trimTrailingWhitespace": true,
+  "files.trimFinalNewlines": true,
+  "npm.enableScriptExplorer": true,
+  "ng-evergreen.upgradeChannel": "Latest",
+}
