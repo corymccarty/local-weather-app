@@ -5,7 +5,7 @@ import { Component } from '@angular/core';
   template: `
     <div>
       <mat-toolbar color="primary">
-        LocalCast Weather
+        <span>LocalCast Weather</span>
       </mat-toolbar>
       <div fxLayoutAlign="center">
         <div class="mat-caption vertical-margin">
